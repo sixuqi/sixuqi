@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 关于我
-- XJTU && POLIMI -> cuhksz 
+- XJTU && POLIMI -> cuhksz sse cie mphil
 - 🔭 目前在做：agent开发/游戏开发/人机交互<!-- agent开发/ 数据分析 / 嵌入式 -->
 - 🌱 正在学习：agent<!-- 例如：TypeScript、React、Python -->
 - 💬 可以问我：人机交互<!-- 你的擅长领域 -->
