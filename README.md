@@ -7,7 +7,7 @@
 ## 👨‍💻 关于我
 - XJTU && POLIMI -> cuhksz sse cie
 - 🔭 目前在做：agent/游戏开发/人机交互<!-- agent开发/ 数据分析 / 嵌入式 -->
-- 🌱 智驾算法实习中 - 驾舱内感知<!-- 例如：TypeScript、React、Python -->
+- 🌱 ai智驾算法实习中 - 驾舱内感知<!-- 例如：TypeScript、React、Python -->
 - 💬 INTJ 处女座 交叉学科<!-- 你的擅长领域 -->
 - 📫 联系我：houyihan@outlook.com<!-- 你的邮箱或社交主页链接 -->
 - ⚡ 兴趣爱好：游戏/同人创作/日音<!-- 例如：开源、摄影、羽毛球、游戏 -->
