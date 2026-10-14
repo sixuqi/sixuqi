@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I%27m+sixuqi+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;Keep+learning+and+keep+building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I%27m+sixuqi+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;And+miles+to+go+before+I+sleep+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 - XJTU && POLIMI -> cuhk sse cie
 - 🔭 目前在做：agent/游戏开发/人机交互<!-- agent开发/ 数据分析 / 嵌入式 -->
 - 🌱 ai智驾算法实习中 - 驾舱内感知<!-- 例如：TypeScript、React、Python -->
-- 💬 INTJ 处女座 交叉学科<!-- 你的擅长领域 -->
+- 💬 INTJ 交叉学科<!-- 你的擅长领域 -->
 - 📫 联系我：houyihan@outlook.com<!-- 你的邮箱或社交主页链接 -->
 - ⚡ 兴趣爱好：游戏/同人创作/日音<!-- 例如：开源、摄影、羽毛球、游戏 -->
 
